@@ -1,4 +1,4 @@
-# Cyber-Tech-Articles
+# Cyber&Tech Articles
 Nesse repositório apresento uma série de artigos falando sobre Linux, cibersegurança, computação forense e Gestão de Projectos. O objetivo desses artigos é explicar assuntos ou temas mais básicos até os mais aprofundados. Tudo isso será apresentado numa linguagem simples para que até os leigos possam entender. Espero que esses artigos possam ajudar várias pessoas que desejam obter conhecimento sobre esses assuntos.
 
 
